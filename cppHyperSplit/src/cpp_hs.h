@@ -20,7 +20,7 @@
 //#define FULLHS
 #define HSINC 8
 
-#define FILTER_FILE ".\\filter\\table_acl1_10k"
+#define FILTER_FILE ".\\filter\\1000"
 
 /* for 5-tuple classification */
 #define DIM			5
